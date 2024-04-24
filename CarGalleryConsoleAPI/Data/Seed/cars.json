@@ -1,0 +1,101 @@
+[
+  {
+    "CatalogNumber": "ABCD1234EFGH",
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Color": "Red",
+    "Year": 2018,
+    "Mileage": 30000,
+    "Price": 15000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "WXYZ5678UVWX",
+    "Make": "Honda",
+    "Model": "Civic",
+    "Color": "Blue",
+    "Year": 2019,
+    "Mileage": 25000,
+    "Price": 17000,
+    "Availability": false
+  },
+  {
+    "CatalogNumber": "QRST2468MNOP",
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Color": "Yellow",
+    "Year": 2020,
+    "Mileage": 20000,
+    "Price": 25000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "LMNO1357IJKL",
+    "Make": "Chevrolet",
+    "Model": "Camaro",
+    "Color": "Black",
+    "Year": 2017,
+    "Mileage": 35000,
+    "Price": 20000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "PQRS9876TUVW",
+    "Make": "BMW",
+    "Model": "X5",
+    "Color": "White",
+    "Year": 2019,
+    "Mileage": 15000,
+    "Price": 35000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "EFGH5432IJKL",
+    "Make": "Mercedes-Benz",
+    "Model": "E-Class",
+    "Color": "Silver",
+    "Year": 2021,
+    "Mileage": 10000,
+    "Price": 40000,
+    "Availability": false
+  },
+  {
+    "CatalogNumber": "MNOP1122QRST",
+    "Make": "Audi",
+    "Model": "A4",
+    "Color": null,
+    "Year": 2018,
+    "Mileage": 20000,
+    "Price": 30000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "IJKL3344MNOP",
+    "Make": "Volkswagen",
+    "Model": "Jetta",
+    "Color": "Green",
+    "Year": 2017,
+    "Mileage": 30000,
+    "Price": 18000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "UVWX5566QRST",
+    "Make": "Subaru",
+    "Model": "Outback",
+    "Year": 2020,
+    "Mileage": 22000,
+    "Price": 23000,
+    "Availability": true
+  },
+  {
+    "CatalogNumber": "YZAB7788CDEF",
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Color": "Red",
+    "Year": 2022,
+    "Mileage": 5000,
+    "Price": 60000,
+    "Availability": true
+  }
+]
